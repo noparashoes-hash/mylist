@@ -12,17 +12,17 @@ https://stmv6.voxtvhd.com.br/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal04" tvg-name="Otaku Sign" tvg-logo="https://i.imgur.com/X8B5qG0.jpeg" group-title="Animes", Otaku Sign
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal05" tvg-name="Wording" tvg-logo="https://i.imgur.com/IDsx6jQ.png" group-title="Animes", Wording
-https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1664705360.m3u8
-
-#EXTINF:-1 tvg-id="Canal06" tvg-name="VintageTv" tvg-logo="https://i.imgur.com/iixe1RY.jpeg" group-title="Filmes", Vintage Tv
+#EXTINF:-1 tvg-id="Canal05" tvg-name="VintageTv" tvg-logo="https://i.imgur.com/iixe1RY.jpeg" group-title="Filmes", Vintage Tv
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w12658702.m3u8
 
-#EXTINF:-1 tvg-id="Canal07" tvg-name="Sony One Emoções" tvg-logo="https://i.imgur.com/uh32cYP.png" group-title="Filmes", Sony One Emoções
+#EXTINF:-1 tvg-id="Canal06" tvg-name="Sony One Emoções" tvg-logo="https://i.imgur.com/uh32cYP.png" group-title="Filmes", Sony One Emoções
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/1200.m3u8
 
-#EXTINF:-1 tvg-id="Canal08" tvg-name="Moovie Sphere" tvg-logo="https://i.imgur.com/8HlDk0H.png" group-title="Filmes", Moovie Sphere
+#EXTINF:-1 tvg-id="Canal07" tvg-name="Moovie Sphere" tvg-logo="https://i.imgur.com/8HlDk0H.png" group-title="Filmes", Moovie Sphere
 https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal08" tvg-name="Multi Canais" tvg-logo="https://i.imgur.com/HvzoYg5.jpeg" group-title="Filmes", Multi Canais
+https://stmv7.voxtvhd.com.br/multicanais/multicanais/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal09" tvg-name="Sony One Cinema" tvg-logo="https://i.imgur.com/bYMvGmG.jpeg" group-title="Filmes", Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/1200.m3u8
@@ -35,6 +35,9 @@ https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 
 #EXTINF:-1 tvg-id="Canal12" tvg-name="Runtime Comédia" tvg-logo="https://i.imgur.com/Z2b9xu2.jpeg" group-title="Filmes", Runtime Comédia
 https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
+
+#EXTINF:-1 tvg-id="Canal13" tvg-name="Wording" tvg-logo="https://i.imgur.com/IDsx6jQ.png" group-title="Animes", Wording
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1664705360.m3u8
 
 #EXTINF:-1 tvg-id="numerocanal" tvg-name="nomecanal" tvg-logo="https://exemplo.com/logo.png" group-title="grupocanal", nomecanalaqui
 
