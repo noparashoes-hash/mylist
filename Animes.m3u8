@@ -12,9 +12,6 @@ https://stmv1.srvif.com/anime/anime/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal04" tvg-name="Wording" tvg-logo="https://i.imgur.com/IDsx6jQ.png" group-title="Animes", Wording
 https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1664705360.m3u8
 
-#EXTINF:-1 tvg-id="Canal05" tvg-name="Anime Tv" tvg-logo="https://i.imgur.com/Z63O01o.png" group-title="Animes", Anime Tv
-https://stmv6.voxtvhd.com.br/animetv/animetv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="numerocanal" tvg-name="nomecanal" tvg-logo="https://exemplo.com/logo.png" group-title="grupocanal", nomecanalaqui
 
 #EXTINF:-1 tvg-id="numerocanal" tvg-name="nomecanal" tvg-logo="https://exemplo.com/logo.png" group-title="grupocanal", nomecanalaqui
